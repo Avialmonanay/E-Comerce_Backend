@@ -7,7 +7,6 @@ This application was built to deomnstrate my knowledge of SQL and API routes. Th
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
-- [Testing](#testing)
 - [Features](#features)
 - [Contact](#questions)
 
@@ -19,29 +18,45 @@ This application is deployed to heroku so you can review the functionality. Acce
 ## Usage
 Users will have to run API calls to interact with the application. The Application supports GET, POST, PUT, and DELETE methods. 
 
-API Routes:
 
+API Routes
+----------
 Products:
+
 /api/products
+
 /api/products/:id 
 
+----------
 Tags:
-/api/tags 
+
+/api/tags
+
 /api/tags/:id 
 
+----------
 Categories:
+
 /api/categories 
+
 /api/categories/:id 
 
-Example json for post routes:
+----------
 
+Example json for post routes
+----------
 Categories:
+
 {"category_name":"shirts"} 
 
+----------
 Tags:
+
 {"tag_name":"t-shirt"} 
 
+----------
 Products:
+
 {
 "product_name": "Basketball", 
 "price": 200.00, 
