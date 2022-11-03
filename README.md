@@ -1,6 +1,8 @@
 # E-Commerce Backend        
 This application was built to deomnstrate my knowledge of SQL and API routes. This tool is the backend JS and SQL of an E-Commerce website. It allows for adding of Products, Categories, and tags throu API. It will also allow you to Get and Update all products, tags, and categories.
 
+![e-commerce](https://user-images.githubusercontent.com/108016215/199853830-ac9dd67e-f549-45f3-b924-6bf31792f5eb.PNG)
+
 
 ## Table of Contents (Optional)
 
