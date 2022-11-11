@@ -21,7 +21,7 @@ This application is deployed to heroku so you can review the functionality. Acce
 Users will have to run API calls to interact with the application. The Application supports GET, POST, PUT, and DELETE methods. 
 
 ## Video Demo
-https://drive.google.com/file/d/1sjNqPjF92aGtnLZ-_P8ZGJEPOdzeQYlQ/view
+https://drive.google.com/file/d/1UecZ8C_u4vRiuL3SO-sq5FSCXj93pvtX/view
 
 API Routes
 ----------
